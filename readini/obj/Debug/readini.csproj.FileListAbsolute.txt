@@ -1,0 +1,13 @@
+D:\code\c#\INI\readini\readini\readini\bin\Debug\readini.exe.config
+D:\code\c#\INI\readini\readini\readini\bin\Debug\readini.exe
+D:\code\c#\INI\readini\readini\readini\bin\Debug\readini.pdb
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.csprojAssemblyReference.cache
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.Form1.resources
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.Properties.Resources.resources
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.csproj.GenerateResource.cache
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.csproj.CoreCompileInputs.cache
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.exe
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.pdb
+D:\code\c#\INI\readini\readini\readini\bin\Debug\INIFileParser.dll
+D:\code\c#\INI\readini\readini\readini\bin\Debug\INIFileParser.xml
+D:\code\c#\INI\readini\readini\readini\obj\Debug\readini.csproj.CopyComplete
